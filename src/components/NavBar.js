@@ -8,7 +8,7 @@ const Navbar = () => {
         <nav className="flex">
           <NavLink
             activeClassName="text-white"
-            className="inflex-flex items-center py-6 px-3 mr-4 text-red-100 hover:text-green-800 text-4xl font-bold cursive tracking-widest"
+            className="inflex-flex items-center py-10 px-3 mr-4 text-red-100 hover:text-green-800 text-4xl font-bold cursive tracking-widest"
             to="/"
             exact
           >
@@ -44,7 +44,7 @@ const Navbar = () => {
             fgColor="#fff"
           />
           <SocialIcon
-            url="https://www.youtube.com/channel/UCnBedfIrNGnEFWeoVHYIadA"
+            url="https://www.instagram.com/zaqiiul/"
             className="mr-4"
             target="_blank"
             fgColor="#fff"
